@@ -1,0 +1,10 @@
+{
+    "envApi": {
+        "url": ""
+    },
+    "envAuth": {
+        "url": "",
+        "client_id": 3,
+        "client_secret":""
+    }
+}
